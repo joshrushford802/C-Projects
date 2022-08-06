@@ -1,5 +1,5 @@
 # C-Projects
-*Important* To run these projects you must have a Linux command line and a compiler
+*Important* To run these projects you must have a Linux command line and a compiler.
 To run these projects:
 1) Press "Code" and at the bottom press "download ZIP"
 2) In a Linux command line, unzip the file with command: unzip file_name
